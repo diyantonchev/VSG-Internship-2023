@@ -1,0 +1,272 @@
+[
+  {
+    "id": 981822477,
+    "price": "26817.36000000",
+    "qty": "0.13906000",
+    "quoteQty": "3729.22208160",
+    "time": 1685212449308,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822478,
+    "price": "26823.47000000",
+    "qty": "0.00567000",
+    "quoteQty": "152.08907490",
+    "time": 1685212450433,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822479,
+    "price": "26823.46000000",
+    "qty": "0.00224000",
+    "quoteQty": "60.08455040",
+    "time": 1685212453742,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822480,
+    "price": "26823.46000000",
+    "qty": "0.23776000",
+    "quoteQty": "6377.54584960",
+    "time": 1685212454061,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822481,
+    "price": "26823.46000000",
+    "qty": "0.24000000",
+    "quoteQty": "6437.63040000",
+    "time": 1685212454061,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822482,
+    "price": "26823.46000000",
+    "qty": "0.10000000",
+    "quoteQty": "2682.34600000",
+    "time": 1685212454061,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822483,
+    "price": "26823.46000000",
+    "qty": "0.10399000",
+    "quoteQty": "2789.37160540",
+    "time": 1685212454061,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822484,
+    "price": "26823.46000000",
+    "qty": "0.02703000",
+    "quoteQty": "725.03812380",
+    "time": 1685212454061,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822485,
+    "price": "26819.44000000",
+    "qty": "0.00329000",
+    "quoteQty": "88.23595760",
+    "time": 1685212454980,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822486,
+    "price": "26819.44000000",
+    "qty": "0.01048000",
+    "quoteQty": "281.06773120",
+    "time": 1685212455037,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822487,
+    "price": "26819.44000000",
+    "qty": "0.01085000",
+    "quoteQty": "290.99092400",
+    "time": 1685212455246,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822488,
+    "price": "26819.44000000",
+    "qty": "0.01159000",
+    "quoteQty": "310.83730960",
+    "time": 1685212455246,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822489,
+    "price": "26818.05000000",
+    "qty": "0.00081000",
+    "quoteQty": "21.72262050",
+    "time": 1685212456216,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822490,
+    "price": "26815.21000000",
+    "qty": "0.00498000",
+    "quoteQty": "133.53974580",
+    "time": 1685212456882,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822491,
+    "price": "26815.20000000",
+    "qty": "0.01049000",
+    "quoteQty": "281.29144800",
+    "time": 1685212457036,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822492,
+    "price": "26815.20000000",
+    "qty": "0.01049000",
+    "quoteQty": "281.29144800",
+    "time": 1685212458037,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822493,
+    "price": "26815.21000000",
+    "qty": "0.10000000",
+    "quoteQty": "2681.52100000",
+    "time": 1685212459137,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822494,
+    "price": "26815.21000000",
+    "qty": "0.07617000",
+    "quoteQty": "2042.51454570",
+    "time": 1685212459137,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822495,
+    "price": "26815.21000000",
+    "qty": "0.14776000",
+    "quoteQty": "3962.21542960",
+    "time": 1685212459137,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822496,
+    "price": "26815.21000000",
+    "qty": "0.07605000",
+    "quoteQty": "2039.29672050",
+    "time": 1685212459138,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822497,
+    "price": "26815.21000000",
+    "qty": "0.05557000",
+    "quoteQty": "1490.12121970",
+    "time": 1685212459138,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822498,
+    "price": "26820.11000000",
+    "qty": "0.00473000",
+    "quoteQty": "126.85912030",
+    "time": 1685212459309,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822499,
+    "price": "26820.11000000",
+    "qty": "0.00073000",
+    "quoteQty": "19.57868030",
+    "time": 1685212459383,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822500,
+    "price": "26815.50000000",
+    "qty": "0.00958000",
+    "quoteQty": "256.89249000",
+    "time": 1685212460730,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822501,
+    "price": "26815.51000000",
+    "qty": "0.00372000",
+    "quoteQty": "99.75369720",
+    "time": 1685212462295,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822502,
+    "price": "26815.51000000",
+    "qty": "0.00372000",
+    "quoteQty": "99.75369720",
+    "time": 1685212462295,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822503,
+    "price": "26815.51000000",
+    "qty": "0.00372000",
+    "quoteQty": "99.75369720",
+    "time": 1685212462295,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822504,
+    "price": "26815.54000000",
+    "qty": "0.00285000",
+    "quoteQty": "76.42428900",
+    "time": 1685212463900,
+    "isBuyerMaker": true,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822505,
+    "price": "26815.55000000",
+    "qty": "0.00509000",
+    "quoteQty": "136.49114950",
+    "time": 1685212464298,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  },
+  {
+    "id": 981822506,
+    "price": "26815.55000000",
+    "qty": "0.00242000",
+    "quoteQty": "64.89363100",
+    "time": 1685212464298,
+    "isBuyerMaker": false,
+    "isBestMatch": true
+  }
+]

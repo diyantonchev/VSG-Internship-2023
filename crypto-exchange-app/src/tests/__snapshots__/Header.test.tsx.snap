@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header it should match the snapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand navbar-dark bg-primary"
+  >
+    <div
+      class="container"
+    >
+      <a
+        class="navbar-brand"
+        href="/"
+      >
+        Crypto Exchange
+      </a>
+      <div
+        class="justify-content-end navbar-collapse collapse"
+      >
+        <span
+          class="navbar-text"
+        >
+          Signed in as: 
+          <a
+            role="button"
+          />
+        </span>
+      </div>
+    </div>
+  </nav>
+</div>
+`;
