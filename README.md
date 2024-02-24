@@ -1,1 +1,1 @@
-# Code from the VSG Internship 2023
+# Code from the VSG Internship Program 2023
